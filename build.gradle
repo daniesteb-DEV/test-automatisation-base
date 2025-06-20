@@ -8,8 +8,8 @@ java {
 }
 
 
-group 'com.example'
-version '1.0-SNAPSHOT'
+group 'dev.daniesteb'
+version '1.0'
 
 repositories {
     mavenCentral()
